@@ -1,0 +1,74 @@
+/* Medium Layout: 1280px. 
+
+Standard Size: 970px
+Checking Size: 1000px
+
+*/
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    .boundary{
+        width: 970px;
+    }
+    .menu {
+        width: 796px;
+    }
+    .logo{
+        width: 144px;
+    }
+    .about-info {
+        width: 650px;
+    }
+    .single-special-menu {
+        width: 31.96%;
+    }
+    .single-gallery {
+        width: 31.96%;
+    }
+    .single-service {
+        width: 31.96%;
+    }
+    .single-team {
+        width: 23.99%;
+    }
+    .single-test {
+        width: 48.4%;
+        margin-right: 31px;
+    }
+    .single-blog {
+        width: 31.96%;
+    }
+    .single-contact {
+        width: 48.97%;
+    }
+    .single-footer {
+        width: 23.4%;
+    }
+}
+/* Tablet Layout: 768px. 
+
+Standard Size: 750px
+Checking Size: 800px
+
+*/
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+}
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+	
+	
+}
+
+
+
+
+
+
+
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	
+	
+}  
